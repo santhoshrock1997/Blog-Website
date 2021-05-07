@@ -8,7 +8,7 @@ const homeStartingContent =
 const aboutContent =
   "This is a simple blog site made with HTML, CSS, JavaScript, EJS, Nodejs and connected to the MongoDB server.";
 const contactContent =
-  "If you want to see more interesting articles like this, give a shout-out to me at dailyjournal@email.com";
+  "If you want to see more interesting articles regarding web development, give a shout-out to me at dailyjournal@email.com";
 const app = express();
 
 var posts = [
